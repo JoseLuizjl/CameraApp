@@ -17,7 +17,7 @@ npx expo install react-native-gesture-handler
 npx expo install expo-camera
 ```
 
-2. Add the following plugins to your `app.json` file:
+2.Open the file `app.json` and check if the camera plugins are added. If they are not added, Add the following plugins to your `app.json` file:  
 
 ```json
 "plugins": [
